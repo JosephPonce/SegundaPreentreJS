@@ -1,0 +1,40 @@
+body {
+    display:grid;
+    background-image: url("img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    text-align: center;
+    margin-top: 350px;
+}
+h1 {
+    font-size: 70px;
+    color: rgb(234, 234, 234);
+    font-weight: bolder
+}
+h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(228, 34, 34);
+}
+h3 {
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+div {
+    background-color: rgb(36, 36, 36);
+    opacity: 90%;
+   margin: .5px;
+}
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #ff0000;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.boton:hover {
+    background-color: #000000;
+}
