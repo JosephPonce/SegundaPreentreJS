@@ -1,3 +1,3 @@
-# PrimerapreentregaJS
+# SEGUNDA PREENTREGA JS
 
-## Pages https://josephponce.github.io/PrimerapreentregaJS/
+## PAGES: https://josephponce.github.io/SegundaPreentreJS/
